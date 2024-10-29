@@ -8,3 +8,5 @@ Various visualizations are created, including a count plot for restaurant types,
 Additionally, a count plot is used to explore the distribution of approximate costs for two people.
 A box plot visualizes the relationship between online ordering availability and restaurant ratings, while a heatmap reveals the interaction between restaurant types and online ordering options.
 Each visualization helps to uncover patterns and insights, making the dataset more comprehensible.
+
+![Additional Image](https://blogskiplinow.wordpress.com/wp-content/uploads/2023/08/image-17.png?w=720)
