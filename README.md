@@ -1,4 +1,6 @@
 # Zomato Project
+![Zomato Project Image](https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2023/02/zomato-ft-760x570.png)
+
 This project analyzes a dataset from Zomato to gain insights into restaurant ratings, types, and costs.
 The analysis begins with importing essential libraries, including Pandas for data manipulation, NumPy for numerical operations, and Matplotlib and Seaborn for data visualization.
 The dataset is loaded from a CSV file, followed by a function that cleans the rate column by converting rating strings into float values.
